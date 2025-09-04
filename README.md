@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamedanish2000
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and MYSQL
 
 
 <!---
